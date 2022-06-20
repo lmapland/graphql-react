@@ -1,0 +1,2 @@
+To prep the server, create an account at Mongodb and add the environment variables DB_USER, DB_PW, and DB_URI.
+To run the server, use `nodemon app`
